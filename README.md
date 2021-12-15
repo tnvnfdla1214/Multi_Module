@@ -55,3 +55,6 @@
  <img src = "https://user-images.githubusercontent.com/48902047/146133658-240ff074-2ec0-4ec6-9cde-6f769be79925.png" width="50%" height="50%">
 
  위의 사진처럼 CustomView를 모듈화 시켜서 A 프로젝트와 B 프로젝트에서 사용한다고 하면, 문제점이 발견되어도 CustomView만 수정하면 돼서 코드 재사용성이 좋아지게 됩니다.
+
+
+출처: https://leveloper.tistory.com/201 [꾸준하게]
